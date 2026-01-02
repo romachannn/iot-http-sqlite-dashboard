@@ -1,0 +1,8 @@
+
+1-minute defense text:
+
+This project shows a simple IoT data pipeline.
+I use a sensor simulator that sends temperature and humidity data using HTTP.
+The Flask server receives the data and saves it in a SQLite database.
+Then, the dashboard shows live temperature changes using Plotly.
+This solution is simple, clear, and meets all assignment requirements.

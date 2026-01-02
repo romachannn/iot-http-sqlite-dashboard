@@ -1,0 +1,17 @@
+
+Q&A:
+
+1. Why HTTP?
+HTTP is simple and easy to test.
+
+2. Why database?
+To store and analyze historical data.
+
+3. Why simulator?
+Real sensors were not required for this task.
+
+4. Limitations?
+No authentication and local database only.
+
+5. Improvements?
+Add MQTT, cloud DB, and real sensors.
